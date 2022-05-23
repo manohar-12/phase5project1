@@ -1,0 +1,10 @@
+Project description:
+   
+
+     Performing automation of registration and login in oracle page.
+
+requirements used:
+
+eclipse
+selenium webDriver
+Github
